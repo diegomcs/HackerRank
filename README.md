@@ -3,5 +3,6 @@
         <img alt="HackerRank Logo | Nathan Abela Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
     </a>
 </p>
-
+<p align="center">
 # HackerRank | Solutions
+</p>
