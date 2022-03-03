@@ -14,10 +14,6 @@ Este repositório consiste em compartilhar minhas soluções para os problemas d
 
 [View Profile](https://www.hackerrank.com/diegomcs)
 
-## Insígnias
-
-![SQL](/Insignias/sql.png)
-
 ## Certificados
 
 <a href="https://www.hackerrank.com/certificates/e131cfe700a6">
@@ -27,8 +23,13 @@ Este repositório consiste em compartilhar minhas soluções para os problemas d
     <img src="Certificados/sql_intermediario.png" alt="Certificado - SQL intermediário"/>
 </a>
 
+## Insígnias
+
+![SQL](/Insignias/sql.png)
+
 ## Desafios
-### SQL >
+
+### SQL
 
 | Categoria | Desafio | Dificuldade | Pontuação obtida | Problema | Resolução |
 | :-: | :-: | :-: | :-: | :-: | :-: |
