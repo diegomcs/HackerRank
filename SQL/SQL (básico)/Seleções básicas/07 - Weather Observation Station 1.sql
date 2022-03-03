@@ -1,15 +1,16 @@
--- ========================
---       Information
--- ========================
 
--- Direct Link: https://www.hackerrank.com/challenges/weather-observation-station-1/problem
--- Difficulty: Easy
--- Max Score: 15
--- DBMS: mySQL
+Informações:
 
--- ========================
---         Solution
--- ========================
+--  Link do problema: https://www.hackerrank.com/challenges/weather-observation-station-1/problem
+--  Dificuldade: Easy
+--  Pontuação: 15
+--  DBMS: Oracle
 
-SELECT CITY, STATE
-FROM STATION;
+Problema:
+
+--  Consulte uma lista de CITY e STATE na tabela STATION.
+
+Solução:
+
+    SELECT CITY, STATE
+    FROM STATION

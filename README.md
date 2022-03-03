@@ -33,9 +33,9 @@ Este repositório consiste em compartilhar minhas soluções para os desafios de
 
 Categoria | Desafio | Dificuldade | Pontuação obtida | Problema | Solução
 :-: | :-: | :-: | :-: | :-: | :-:
-Seleção básica | Revising Select Query I | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/244350597)
-|
-Seleção básica | Revising Select Query II | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Link](https://www.hackerrank.com/challenges/revising-the-select-query-2/submissions/code/244350699)
-Seleção básica | Select ALL | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Link](https://www.hackerrank.com/challenges/select-all-sql/submissions/code/244350814)
-Seleção básica | Select By ID | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [Link](https://www.hackerrank.com/challenges/select-by-id/submissions/code/244350907)
-Seleção básica | Japanese Cities' Attributes | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Link](https://www.hackerrank.com/challenges/japanese-cities-attributes/submissions/code/244350975)
+<!---->Seleção básica | Revising Select Query I | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/244350597)
+<!---->Seleção básica | Revising Select Query II | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Link](https://www.hackerrank.com/challenges/revising-the-select-query-2/submissions/code/244350699)
+<!---->Seleção básica | Select ALL | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Link](https://www.hackerrank.com/challenges/select-all-sql/submissions/code/244350814)
+<!---->Seleção básica | Select By ID | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [Link](https://www.hackerrank.com/challenges/select-by-id/submissions/code/244350907)
+<!---->Seleção básica | Japanese Cities' Attributes | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Link](https://www.hackerrank.com/challenges/japanese-cities-attributes/submissions/code/244350975)
+<!---->Seleção básica | Japanese Cities' Names | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Link](https://www.hackerrank.com/challenges/japanese-cities-name/submissions/code/244366035)
