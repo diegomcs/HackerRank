@@ -9,6 +9,8 @@ Este repositório consiste em compartilhar minhas soluções para os desafios de
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diegomcs/main?style=plastic">
 
+![GitHub repo size](https://img.shields.io/github/repo-size/diegomcs/HackerRank)
+
 ## Perfil pessoal
 
 [View Profile](https://www.hackerrank.com/diegomcs)
