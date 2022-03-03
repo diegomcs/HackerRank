@@ -12,6 +12,9 @@ Problema:
 
 Solução:
 
-    SELECT NAME
-    FROM CITY
-    WHERE COUNTRYCODE = 'JPN'
+    SELECT 
+        NAME
+    FROM
+        CITY
+    WHERE
+        COUNTRYCODE = "JPN"

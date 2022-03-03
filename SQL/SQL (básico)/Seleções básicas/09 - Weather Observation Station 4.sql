@@ -14,6 +14,8 @@ Problema:
 
 Solução:
 
-    SELECT COUNT(CITY) - COUNT(DISTINCT CITY)
-    FROM STATION
-
+    SELECT 
+        COUNT(CITY) - 
+        COUNT(DISTINCT CITY)
+    FROM 
+        STATION

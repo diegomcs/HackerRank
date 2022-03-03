@@ -8,11 +8,14 @@ Informações:
 
 Problema:
 
---  Consulte o campo NAME para todas as cidades americanas na tabela CITY com populações maiores que 120000. O CountryCode para a América é USA.
+--  Consulte o campo NAME para todas as cidades americanas na tabela CITY com populações maiores que 120000. O COUNTRYCODE para a América é USA.
 
 Solução:
 
-    SELECT name
-    FROM CITY
-    WHERE POPULATION > 120000 AND COUNTRYCODE = 'USA'
-
+    SELECT 
+        NAME
+    FROM
+        CITY
+    WHERE
+        POPULATION > 120000 AND
+        COUNTRYCODE = "USA"

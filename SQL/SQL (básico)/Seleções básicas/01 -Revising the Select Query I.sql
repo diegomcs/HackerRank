@@ -12,7 +12,10 @@ Problema:
 
 Solução:
 
-    SELECT *
-    FROM CITY
-    WHERE POPULATION > 100000 AND COUNTRYCODE = 'USA'
-
+    SELECT 
+        *
+    FROM
+        CITY
+    WHERE
+        POPULATION > 100000 AND 
+        COUNTRYCODE = "USA"

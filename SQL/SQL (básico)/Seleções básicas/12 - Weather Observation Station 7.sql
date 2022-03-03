@@ -1,25 +1,25 @@
--- ========================
---       Information
--- ========================
 
--- Direct Link: https://www.hackerrank.com/challenges/weather-observation-station-7/problem
--- Difficulty: Easy
--- Max Score: 10
--- DBMS: mySQL
+Informações:
 
--- ========================
---         Solution
--- ========================
+--  Link do problema: https://www.hackerrank.com/challenges/weather-observation-station-7/problem
+--  Dificuldade: Easy
+--  Pontuação: 10
+--  DBMS: Oracle
 
-SELECT DISTINCT(CITY)
-FROM STATION
-WHERE SUBSTR(CITY, (LENGTH(CITY)), LENGTH(CITY)) IN ('A', 'E', 'I', 'O', 'U');
+Problema:
 
--- ========================
---       Explanation
--- ========================
+--  Consulte a lista de nomes em CITY, terminando com vogais (ou seja, a, e, i, o ou u) na tabela STATION. Seu resultado não pode conter duplicatas.
 
--- DISTINCT() used to avoid duplication
--- SUBSTR() used to extract a substring from the text in a column
--- 1st LENGTH(CITY) it will start from the end of the city name.
--- 2nd LENGTH(CITY) it will take the complete city name (length of it, starting from the last or back)
+Solução:
+
+    SELECT DISTINCT
+        CITY 
+    FROM
+        STATION 
+    WHERE
+        CITY LIKE '%A' OR 
+        CITY LIKE '%E' OR 
+        CITY LIKE '%I' OR 
+        CITY LIKE '%O' OR 
+        CITY LIKE '%U'
+    

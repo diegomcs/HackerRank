@@ -1,23 +1,25 @@
--- ========================
---       Information
--- ========================
 
--- Direct Link: https://www.hackerrank.com/challenges/more-than-75-marks/problem
--- Difficulty: Easy
--- Max Score: 15
--- DBMS: mySQL
+Informações:
 
--- ========================
---         Solution
--- ========================
+--  Link do problema: https://www.hackerrank.com/challenges/more-than-75-marks/problem
+--  Dificuldade: Easy
+--  Pontuação: 15
+--  DBMS: Oracle
 
-SELECT Name
-FROM Students
-WHERE Marks > 75
-ORDER BY SUBSTR(Name, - 3), ID ASC;
+Problema:
 
--- ========================
---       Explanation
--- ========================
+--  Consultar o nome de qualquer aluno em STUDENTS que obteve pontuação superior a 75 MARKS. 
+--  Ordene sua saída pelos últimos três caracteres de cada nome. 
+--  Se dois ou mais alunos tiverem nomes que terminam nos mesmos três últimos caracteres (ou seja: Bobby, Robby, etc.), classifique-os de forma secundária por ID crescente .
 
--- SUBSTR() used to extract a substring from the text in a column (start at position 'name', extract -3 characters)
+Solução:
+
+    SELECT
+        NAME
+    FROM
+        STUDENTS
+    WHERE
+        MARKS > 75
+    ORDER BY
+        SUBSTR(NAME, -3),
+        ID ASC
