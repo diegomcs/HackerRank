@@ -32,15 +32,11 @@ Este repositório consiste em compartilhar minhas soluções para os problemas d
 | Categoria | Desafio | Dificuldade | Pontuação obtida | Problema | Solução |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Seleção básica | Revising the Select Query I | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/244350597) |
-
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Seleção básica | Revising the Select Query I | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/244350597) |
-
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Seleção básica | Revising the Select Query I | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/244350597) |
-
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Seleção básica | Revising the Select Query I | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/244350597) |
-
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Seleção básica | Revising the Select Query I | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/244350597) |
