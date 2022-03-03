@@ -6,3 +6,7 @@
 # Soluções | HackerRank
 
 Este repositório consiste em compartilhar minhas soluções para os problemas desenvolvidos pelo <a href="https://www.hackerrank.com"> HackerRank.com </a>
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/nathan-abela/HackerRank-Solutions)](https://github.com/diegomcs/HackerRank-Solutions/commits/master)
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/nathan-abela/HackerRank-Solutions)](https://github.com/diegomcs/HackerRank-Solutions/archive/master.zip)
