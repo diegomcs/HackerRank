@@ -1,6 +1,6 @@
 /*
 
-Seguir o link (CTRL + Click): <a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem"
+Link: https://www.hackerrank.com/challenges/revising-the-select-query/problem
 
 Problema: 
 
