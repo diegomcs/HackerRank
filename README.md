@@ -20,9 +20,9 @@ Este repositório consiste em compartilhar minhas soluções para os problemas d
 
 ## Certificados
 
-<a href="Skills%20Certification/SQL%20(Basic)%20Certificate.png">
-    <img src="Insignias e certificados/sql_basico.png/sql_basico.png" alt="SQL (Certificado - SQL básico"/>
+<a href="https://www.hackerrank.com/certificates/e131cfe700a6">
+    <img src="Certificados/sql_basico.png" alt="SQL (Certificado - SQL básico"/>
 </a>
-<a href="Skills%20Certification/SQL%20(Intermediate)%20Certificate.png">
-    <img src="Insignias e certificados/sql_basico.png/sql_intermediario.png" alt="Certificado - SQL intermediário"/>
+<a href="https://www.hackerrank.com/certificates/bcf939210d0b">
+    <img src="Certificados/intermediario.png" alt="Certificado - SQL intermediário"/>
 </a>
