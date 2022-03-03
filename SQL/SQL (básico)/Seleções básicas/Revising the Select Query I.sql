@@ -1,7 +1,7 @@
 
 Informações:
 
---    Link: https://www.hackerrank.com/challenges/revising-the-select-query/problem 
+--    Link do problema: https://www.hackerrank.com/challenges/revising-the-select-query/problem 
 --    Dificuldade: Easy
 --    Pontuação: 10
 --   DBMS: mySQL
