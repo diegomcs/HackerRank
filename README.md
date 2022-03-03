@@ -21,8 +21,8 @@ Este repositório consiste em compartilhar minhas soluções para os problemas d
 ## Certificados
 
 <a href="Skills%20Certification/SQL%20(Basic)%20Certificate.png">
-    <img src="Badges/sql_basic_skill.png" alt="SQL (Certificado - SQL básico"/>
+    <img src="Insignias e certificados/sql_basico.png/sql_basico.png" alt="SQL (Certificado - SQL básico"/>
 </a>
 <a href="Skills%20Certification/SQL%20(Intermediate)%20Certificate.png">
-    <img src="Badges/sql_intermediate_skill.png" alt="SQL (Intermediate) Certificate"/>
+    <img src="Insignias e certificados/sql_basico.png/sql_intermediario.png" alt="Certificado - SQL intermediário"/>
 </a>
