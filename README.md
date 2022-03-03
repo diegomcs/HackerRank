@@ -7,8 +7,6 @@
 
 Este repositório consiste em compartilhar minhas soluções para os desafios desenvolvidos pelo <a href="https://www.hackerrank.com"> HackerRank </a>
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diegomcs/main?style=plastic">
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/diegomcs/HackerRank)
 
 ## Perfil pessoal
