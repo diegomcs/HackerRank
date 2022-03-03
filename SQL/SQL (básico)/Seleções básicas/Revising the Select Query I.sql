@@ -1,4 +1,3 @@
-________________________________________
 
  Informações:
 
@@ -6,12 +5,12 @@ ________________________________________
 --  Dificuldade: Easy
 --  Pontuação: 10
 --  DBMS: mySQL
-________________________________________
+_____________
 
 Problema:
 
 --  Consulte todas as colunas de todas as cidades americanas na tabela CITY com populações maiores que 100000.O CountryCode para a América é USA.
-________________________________________
+_____________
 
 Solução:
 
