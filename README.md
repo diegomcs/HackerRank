@@ -29,7 +29,7 @@ Este repositório consiste em compartilhar minhas soluções para os desafios de
 
 ## Desafios
 
-### SQL
+### - SQL
 
 |   Categoria    |            Desafio             | Dificuldade | Pontuação obtida |                                       Problema                                       |                                                 Solução                                                 |
 | :------------: | :----------------------------: | :---------: | :--------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
