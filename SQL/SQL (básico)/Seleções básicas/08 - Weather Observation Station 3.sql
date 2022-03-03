@@ -1,24 +1,19 @@
--- ========================
---       Information
--- ========================
 
--- Direct Link: https://www.hackerrank.com/challenges/weather-observation-station-3/problem
--- Difficulty: Easy
--- Max Score: 10
--- DBMS: mySQL
--- Weather Observation Station 2 is not missing, it will be carried out in Aggregation
+Informações:
 
--- ========================
---         Solution
--- ========================
+--  Link do problema: https://www.hackerrank.com/challenges/weather-observation-station-3/problem
+--  Dificuldade: Easy
+--  Pontuação: 10
+--  DBMS: Oracle / MySQL
 
-SELECT DISTINCT(CITY)
-FROM STATION
-WHERE MOD(ID, 2) = 0;
+Problema:
 
--- ========================
---       Explanation
--- ========================
+--  Consulte uma lista de nomes de CITY de STATION para cidades que tenham um ID par. Imprima os resultados em qualquer ordem, mas exclua duplicatas da resposta.
 
--- DISTINCT() used to avoid duplication
--- MOD() used to get the remainder from a division
+Solução:
+
+    SELECT DISTINCT CITY
+    FROM STATION 
+    WHERE MOD(ID, 2) = 0
+
+
