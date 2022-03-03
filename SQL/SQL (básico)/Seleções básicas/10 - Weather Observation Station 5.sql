@@ -1,10 +1,10 @@
 
 Informações:
 
---  Link do problema: https://www.hackerrank.com/challenges/weather-observation-station-4/problem
+--  Link do problema: https://www.hackerrank.com/challenges/weather-observation-station-5/problem
 --  Dificuldade: Easy
---  Pontuação: 10
---  DBMS: Oracle
+--  Pontuação: 30
+--  DBMS: MySQL
 
 Problema:
 
@@ -12,7 +12,7 @@ Problema:
 
 Entrada de amostra
 
---  Por exemplo, CITY tem quatro entradas: DEF, ABC, PQRS e WXY .
+--  Por exemplo, CITY tem quatro entradas: DEF, ABC, PQRS e WXY.
 
 Saída de Amostra
 
@@ -21,7 +21,7 @@ Saída de Amostra
 
 Explicação
 
---  Quando ordenados alfabeticamente, os nomes em CITY são listados como ABC, DEF, PQRS e WXY. O nome mais longo é PQRS, mas existem opções para a cidade nomeada mais curta. Escolha ABC , porque vem primeiro em ordem alfabética.
+--  Quando ordenados alfabeticamente, os nomes CITY são listados como ABC, DEF, PQRS e WXY , com comprimentos 3, 3, 4 e 3. O nome mais longo é PQRS, mas existem 3 opções para a cidade nomeada mais curta. Escolha ABC, porque vem primeiro em ordem alfabética.
 
 Observação
 
