@@ -1,16 +1,17 @@
--- ========================
---       Information
--- ========================
 
--- Direct Link: https://www.hackerrank.com/challenges/japanese-cities-name/problem
--- Difficulty: Easy
--- Max Score: 10
--- DBMS: mySQL
+Informações:
 
--- ========================
---         Solution
--- ========================
+--  Link do problema: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
+--  Dificuldade: Easy
+--  Pontuação: 10
+--  DBMS: mySQL
 
-SELECT NAME
-FROM CITY
-WHERE COUNTRYCODE = 'JPN';
+Problema:
+
+--  Consulte todos os atributos de cada cidade japonesa na tabela CITY . O COUNTRYCODE para o Japão é JPN.
+
+Solução:
+
+    SELECT NAME
+    FROM CITY
+    WHERE COUNTRYCODE = 'JPN'
