@@ -29,6 +29,6 @@ Este repositório consiste em compartilhar minhas soluções para os problemas d
 
 ### SQL
 
-|       Subdomain       |                 Challenge                 |                                             Problem                                              | Difficulty | Score |                                             Solution                                              |
+|       Subdomain       |                 Desáfio                 |                                             Problem                                              | Dificuldade | Pontuação |                                             Solução                                              |
 | :-------------------: | :---------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------: | :---: | :-----------------------------------------------------------------------------------------------: |
-|     Introduction      |      Revising the Select Query I      |             [Problema](https://www.hackerrank.com/challenges/revising-the-select-query/problem)              |    Easy    |   5   |   [Solução](https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/244350597)   |
+|     Seleção básica      |      Revising the Select Query I      |             [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem)              |    Fácil    |   10   |   [Link](https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/244350597)   |
