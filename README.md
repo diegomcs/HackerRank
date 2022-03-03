@@ -16,5 +16,5 @@ Este repositório consiste em compartilhar minhas soluções para os problemas d
 
 ## Distintivos
 
-![SQL](/Distintivos/sql_basico.png)
+![SQL](/Distintivos/sql.png)
 
