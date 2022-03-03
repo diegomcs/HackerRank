@@ -7,14 +7,14 @@
 
 Este repositório consiste em compartilhar minhas soluções para os problemas desenvolvidos pelo <a href="https://www.hackerrank.com"> HackerRank.com </a>
 
-<!--<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diegomcs/HackerRank?style=plastic">-->
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diegomcs/HackerRank?style=plastic">
 
 
-## Perfil pessoal
+## Perfil pessoal -----
 
 [View Profile](https://www.hackerrank.com/diegomcs)
 
-## Certificados
+## Certificados -----
 
 <a href="https://www.hackerrank.com/certificates/e131cfe700a6">
     <img src="Certificados/sql_basico.png" alt="SQL (Certificado - SQL básico"/>
@@ -23,11 +23,11 @@ Este repositório consiste em compartilhar minhas soluções para os problemas d
     <img src="Certificados/sql_intermediario.png" alt="Certificado - SQL intermediário"/>
 </a>
 
-## Insígnias
+## Insígnias -----
 
 ![SQL](/Insignias/sql.png)
 
-## Desafios
+## Desafios -----
 
 ### SQL
 
