@@ -9,11 +9,11 @@ Este repositório consiste em compartilhar minhas soluções para os desafios de
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/diegomcs/HackerRank?label=Tamanho%20do%20reposit%C3%B3rio)
 
-## Perfil pessoal
+# Perfil pessoal
 
 [View Profile](https://www.hackerrank.com/diegomcs)
 
-## Certificados
+# Certificados
 
 <a href="https://www.hackerrank.com/certificates/e131cfe700a6">
     <img src="Certificados/sql_basico.png" alt="SQL (Certificado - SQL básico"/>
@@ -22,7 +22,7 @@ Este repositório consiste em compartilhar minhas soluções para os desafios de
     <img src="Certificados/sql_intermediario.png" alt="Certificado - SQL intermediário"/>
 </a>
 
-## Insígnias
+# Insígnias
 
 ![SQL](/Insignias/sql.png)
 
