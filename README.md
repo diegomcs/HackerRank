@@ -15,12 +15,12 @@
 
 ## Certificados
 
-    <a href="https://www.hackerrank.com/certificates/e131cfe700a6">
-        <img src="Certificados/sql_basico.png" alt="SQL (Certificado - SQL básico"/>
-    </a>
-    <a href="https://www.hackerrank.com/certificates/bcf939210d0b">
-        <img src="Certificados/sql_intermediario.png" alt="Certificado - SQL intermediário"/>
-    </a>
+<a href="https://www.hackerrank.com/certificates/e131cfe700a6">
+    <img src="Certificados/sql_basico.png" alt="SQL (Certificado - SQL básico"/>
+</a>
+<a href="https://www.hackerrank.com/certificates/bcf939210d0b">
+    <img src="Certificados/sql_intermediario.png" alt="Certificado - SQL intermediário"/>
+</a>
 
 ## Insígnias
 
