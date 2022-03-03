@@ -3,7 +3,7 @@ Informações:
 
 --  Link do problema: https://www.hackerrank.com/challenges/weather-observation-station-3/problem
 --  Dificuldade: Easy
---  Pontuação: 10
+--  Pontuação: 15
 --  DBMS: Oracle / MySQL
 
 Problema:
