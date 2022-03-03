@@ -5,9 +5,9 @@
 
 # Resoluções | HackerRank
 
-Este repositório consiste em compartilhar minhas resoluções para os desafios desenvolvidos pelo <a href="https://www.hackerrank.com"> HackerRank.com </a>
+Este repositório consiste em compartilhar minhas soluções para os desafios desenvolvidos pelo <a href="https://www.hackerrank.com"> HackerRank </a>
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diegomcs/HackerRank?style=plastic">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diegomcs/main?style=plastic">
 
 
 ## Perfil pessoal
@@ -31,7 +31,7 @@ Este repositório consiste em compartilhar minhas resoluções para os desafios 
 
 ### SQL
 
-Categoria | Desafio | Dificuldade | Pontuação obtida | Problema | Resolução
+Categoria | Desafio | Dificuldade | Pontuação obtida | Problema | Solução
 :-: | :-: | :-: | :-: | :-: | :-:
 Seleção básica | Revising Select Query I | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/244350597)
 Seleção básica | Revising Select Query II | Fácil | 10 | [Link](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Link](https://www.hackerrank.com/challenges/revising-the-select-query-2/submissions/code/244350699)
