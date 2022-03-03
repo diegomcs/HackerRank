@@ -12,6 +12,6 @@ Problema:
 
 Solução:
 
-    SELECT id, name, countrycode, district, population
+    SELECT ID, NAME, COUNTRYCODE, DISTRICT, POPULATION
     FROM CITY
 
