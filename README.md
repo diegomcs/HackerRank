@@ -7,6 +7,6 @@
 
 Este repositório consiste em compartilhar minhas soluções para os problemas desenvolvidos pelo <a href="https://www.hackerrank.com"> HackerRank.com </a>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/diegomcs/HackerRank)](https://github.com/diegomcs/HackerRank)
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diegomcs/HackerRank?style=plastic">
 
 
