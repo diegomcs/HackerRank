@@ -26,9 +26,9 @@ Este repositório consiste em compartilhar minhas soluções para os desafios de
 
 ![SQL](/Insignias/sql.png)
 
-## Desafios
+# Desafios
 
-### - SQL
+### SQL
 
 |   Categoria    |            Desafio             | Dificuldade | Pontuação obtida |                                       Problema                                       |                                                 Solução                                                 |
 | :------------: | :----------------------------: | :---------: | :--------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
