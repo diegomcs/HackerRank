@@ -27,7 +27,8 @@ Este repositório consiste em compartilhar minhas soluções para os problemas d
     <img src="Certificados/sql_intermediario.png" alt="Certificado - SQL intermediário"/>
 </a>
 
-### SQL
+## Desafios
+### SQL >
 
 | Categoria | Desafio | Dificuldade | Pontuação obtida | Problema | Resolução |
 | :-: | :-: | :-: | :-: | :-: | :-: |
