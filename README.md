@@ -10,11 +10,11 @@ Este repositório consiste em compartilhar minhas soluções para os problemas d
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diegomcs/HackerRank?style=plastic">
 
 
-## Perfil pessoal | HackerRank
+## Perfil pessoal
 
 [View Profile](https://www.hackerrank.com/diegomcs)
 
-## Distintivos | HackerRank
+## Distintivos
 
-![SQL](/Badges/sql_basico.png)
+![SQL](/Distintivos/sql_basico.png)
 
