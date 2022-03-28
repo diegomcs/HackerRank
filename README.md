@@ -52,3 +52,4 @@ Este repositório consiste em compartilhar minhas soluções para os desafios de
 | Seleção básica |      Higher Than 75 Marks      |    Fácil    |        15        |       [Link](https://www.hackerrank.com/challenges/more-than-75-marks/problem)       |       [Link](https://www.hackerrank.com/challenges/more-than-75-marks/submissions/code/244605269)       |
 | Seleção básica |         Employee Names         |    Fácil    |        10        |       [Link](https://www.hackerrank.com/challenges/name-of-employees/problem)        |       [Link](https://www.hackerrank.com/challenges/name-of-employees/submissions/code/244507634)        |
 | Seleção básica |       Employee Salaries        |    Fácil    |        10        |      [Link](https://www.hackerrank.com/challenges/salary-of-employees/problem)       |      [Link](https://www.hackerrank.com/challenges/salary-of-employees/submissions/code/244508466)       |
+
