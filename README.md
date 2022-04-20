@@ -21,6 +21,9 @@ Este repositório consiste em compartilhar minhas soluções para os desafios de
 <a href="https://www.hackerrank.com/certificates/bcf939210d0b">
     <img src="Certificados/sql_intermediario.png" alt="Certificado - SQL intermediário"/>
 </a>
+<a href="https://www.hackerrank.com/certificates/bcf939210d0b">
+    <img src="Certificados/sql_avancado.png" alt="Certificado - SQL avançado"/>
+</a>
 
 # Insígnias
 
