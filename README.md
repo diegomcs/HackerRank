@@ -3,8 +3,6 @@
         <img alt="HackerRank Logo | Nathan Abela Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
     </a>
 
-# Soluções | HackerRank
-
 Este repositório consiste em compartilhar minhas certificações para os desafios desenvolvidos pelo <a href="https://www.hackerrank.com"> HackerRank. </a>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/diegomcs/HackerRank?label=Tamanho%20do%20reposit%C3%B3rio)
