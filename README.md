@@ -5,7 +5,7 @@
 
 # Soluções | HackerRank
 
-Este repositório consiste em compartilhar minhas soluções para os desafios desenvolvidos pelo <a href="https://www.hackerrank.com"> HackerRank. </a>
+Este repositório consiste em compartilhar minhas certificações para os desafios desenvolvidos pelo <a href="https://www.hackerrank.com"> HackerRank. </a>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/diegomcs/HackerRank?label=Tamanho%20do%20reposit%C3%B3rio)
 
